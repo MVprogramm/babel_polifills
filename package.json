@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/MVprogramm/babel_polyfills/issues"
   },
-  "homepage": "https://github.com/MVprogramm/babel_polyfills#readme"
+  "homepage": "https://github.com/MVprogramm/babel_polyfills#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0"
+  },
+  "dependencies": {
+    "core-js": "^3.22.5"
+  }
 }
