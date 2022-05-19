@@ -1,0 +1,20 @@
+{
+  "name": "babel_polyfills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:scripts": "babel ./src --out-dir=./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVprogramm/babel_polyfills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVprogramm/babel_polyfills/issues"
+  },
+  "homepage": "https://github.com/MVprogramm/babel_polyfills#readme"
+}
